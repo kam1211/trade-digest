@@ -27,7 +27,16 @@ SOURCES = [
 
 KEYWORDS = ["tariff","trade war","trade policy","trade agreement","Section 301","Section 232",
     "IEEPA","semiconductor","chip","CHIPS Act","export control","supply chain","Taiwan","台灣",
-    "reciprocal tariff","customs","duty","CFIUS","reshoring","industrial policy"]
+    "reciprocal tariff","customs","duty","CFIUS","reshoring","industrial policy",
+    "energy policy","LNG","natural gas","clean energy","energy security",
+    "EV","electric vehicle","battery","critical minerals","oil price",
+    "AI regulation","artificial intelligence regulation","AI governance","AI safety",
+    "AI data center","data center","hyperscaler","GPU cluster","AI infrastructure",
+    "AI compute","NVIDIA","H100","GB200","power consumption",
+    "supply chain resilience","supply chain disruption","nearshoring","friendshoring",
+    "decoupling","de-risking",
+    "agriculture policy","farm bill","USDA","agricultural trade",
+    "food security","soybean","corn","wheat","agricultural subsidy"]
 
 def fetch_articles(since_hours=24):
     all_articles = []
