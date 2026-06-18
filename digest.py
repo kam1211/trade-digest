@@ -25,7 +25,7 @@ SOURCES = [
     {"name": "WSJ", "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml", "category": "媒體"},
 ]
 
-KEYWORDS = ["tariff","trade war","trade policy","trade agreement","Section 301","Section 232",
+KEYWORDS = ["tariff","Trump","301","122","tariffs","232","AI","trade policy","trade agreement","Section 301","Section 232",
     "IEEPA","semiconductor","chip","CHIPS Act","export control","supply chain","Taiwan","台灣",
     "reciprocal tariff","customs","duty","CFIUS","reshoring","industrial policy",
     "energy policy","LNG","natural gas","clean energy","energy security",
