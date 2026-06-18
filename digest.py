@@ -23,6 +23,10 @@ SOURCES = [
     {"name": "USTR", "url": "https://ustr.gov/rss.xml", "category": "官方"},
     {"name": "Reuters", "url": "https://feeds.reuters.com/reuters/businessNews", "category": "媒體"},
     {"name": "WSJ", "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml", "category": "媒體"},
+    {"name": "Bloomberg Politics", "url": "https://feeds.bloomberg.com/politics/news.rss", "category": "媒體"},
+    {"name": "Financial Times", "url": "https://www.ft.com/trade?format=rss", "category": "媒體"},
+    {"name": "Politico", "url": "https://www.politico.com/rss/politics08.xml", "category": "媒體"},
+    {"name": "Politico Trade", "url": "https://www.politico.com/rss/economy.xml", "category": "媒體"},
 ]
 
 KEYWORDS = ["tariff","Trump","301","122","tariffs","232","AI","trade policy","trade agreement","Section 301","Section 232",
